@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayush Jindal
-- 👀 I’m interested in Python Programming
-- 🌱 I’m currently learning Django and Automation
+- 👀 I’m interested in C# Programming
+- 🌱 I’m currently learning Asp.Net Core Framework
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
 
